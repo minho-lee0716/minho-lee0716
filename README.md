@@ -17,7 +17,7 @@
     <!-- <img src="https://img.shields.io/badge/Flask-FFFFFF?style=flat&logo=Flask&logoColor=000000"> -->
     <br>
     <h3>🍕 Cloud & Infrastructure</h3>
-    <img src="https://img.shields.io/badge/Amazon Web Services-232F3E?style=flat&logo=Amazon Web Services&logoColor=FF9900">
+    <img src="https://img.shields.io/badge/AmazonWebServices-232F3E?style=flat&logo=Amazon-Web-Services&logoColor=FF9900">
     <!-- <br> -->
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=FFFFFF">
     <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=Nginx&logoColor=FFFFFF">
@@ -39,15 +39,14 @@
     <!-- <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=FFFFFF"> -->
     <img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=Redis&logoColor=FFFFFF">
     <br>
-    <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=Amazon S3&logoColor=000000">
-    <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat&logo=Amazon RDS&logoColor=000000">
-    <img src="https://img.shields.io/badge/Amazon DynamoDB-4053D6?style=flat&logo=Amazon DynamoDB&logoColor=000000">
-    <img src="https://img.shields.io/badge/Amazon ElastiCache-C925D1?style=flat&logo=Amazon ElastiCache&logoColor=000000">
+    <img src="https://img.shields.io/badge/AmazonS3-569A31?style=flat&logo=Amazon-S3&logoColor=000000">
+    <img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=flat&logo=Amazon-RDS&logoColor=000000">
+    <img src="https://img.shields.io/badge/AmazonDynamoDB-4053D6?style=flat&logo=Amazon-DynamoDB&logoColor=000000">
+    <img src="https://img.shields.io/badge/AmazonElastiCache-C925D1?style=flat&logo=Amazon-ElastiCache&logoColor=000000">
     <h3>🍕 Tools & Collaboration</h3>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=FFFFFF">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=000000">
-    <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=GitHub Actions&logoColor=FFFFFF">
-    <!-- <br> -->
+    <img src="https://img.shields.io/badge/GitHubActions-2088FF?style=flat&logo=GitHub-Actions&logoColor=FFFFFF">
     <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=Datadog&logoColor=FFFFFF">
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=FFFFFF">
     <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat&logo=Notion&logoColor=000000">
